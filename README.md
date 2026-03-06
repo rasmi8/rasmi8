@@ -16,6 +16,7 @@ I am Rashmita Priyadarsini, with 18+ years of experience in enterprise infrastru
 - Networking
 - PowerShell automation
 - Python basics
+- Security architecture
 
 I am currently expanding my skills into **Python programming and security engineering**.
 
