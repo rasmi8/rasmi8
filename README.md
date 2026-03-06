@@ -24,7 +24,7 @@ My goal is to deepen my understanding of how systems and applications work so I 
 
 ---
 
-## 🚀 What I'm Currently Learning
+##  What I'm Currently Learning
 
 * Python programming
 * Problem solving with loops and logic
@@ -34,7 +34,7 @@ My goal is to deepen my understanding of how systems and applications work so I 
 
 ---
 
-## 📚 Learning Philosophy
+## Learning Philosophy
 
 Even though generative AI can write code, I believe **understanding how code works is essential**.
 
@@ -50,7 +50,7 @@ This GitHub profile documents my **learning journey in public**.
 
 ---
 
-## 🧪 Python Practice Projects
+## Python Practice Projects
 
 Projects I built while learning Python fundamentals:
 
@@ -64,7 +64,7 @@ More projects will be added as I continue learning.
 
 ---
 
-## 🎯 Long Term Goal
+##  Long Term Goal
 
 My goal is to become a **security architect with strong engineering skills**, combining infrastructure knowledge with programming and security design.
 
